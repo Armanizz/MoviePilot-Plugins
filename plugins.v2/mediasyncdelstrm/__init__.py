@@ -23,15 +23,15 @@ from app.utils.system import SystemUtils
 
 class MediaSyncDelStrm(_PluginBase):
     # 插件名称
-    plugin_name = "媒体文件同步删除STRM版"
+    plugin_name = "媒体文件同步删除魔改版"
     # 插件描述
-    plugin_desc = "同步删除历史记录、源文件和下载任务。STRM适配版：电影删除按tmdbid+mtype匹配。"
+    plugin_desc = "同步删除历史记录、源文件和下载任务"
     # 插件图标
     plugin_icon = "mediasyncdel.png"
     # 插件版本
-    plugin_version = "1.0.0"
+    plugin_version = "8.8.8"
     # 插件作者
-    plugin_author = "thsrite / Armanizz"
+    plugin_author = "Armanizz"
     # 作者主页
     author_url = "https://github.com/Armanizz"
     # 插件配置项ID前缀
