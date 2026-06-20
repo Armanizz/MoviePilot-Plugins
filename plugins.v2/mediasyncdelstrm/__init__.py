@@ -27,7 +27,7 @@ class MediaSyncDelStrm(_PluginBase):
     # 插件描述
     plugin_desc = "同步删除历史记录、源文件和下载任务"
     # 插件图标
-    plugin_icon = "mediasyncdel.png"
+    plugin_icon = ""
     # 插件版本
     plugin_version = "8.8.8"
     # 插件作者
